@@ -1,0 +1,20 @@
+Creating a New Repository:
+Create a New Folder:
+
+Create a new folder where you want your Git repository to be.
+Initialize Git Repository:
+
+Right-click on the folder and select "Git Init Here" to initialize a new Git repository.
+Cloning a Repository:
+Clone Repository:
+Right-click on the folder where you want to clone the repository and select "Git Clone."
+Enter the repository URL and click "OK."
+Basic Git Operations:
+Committing Changes:
+
+Right-click on the file or folder you want to commit and select "Git Commit -> "Master."
+Enter a commit message and click "OK."
+Pushing Changes:
+
+To push changes to a remote repository, right-click on the folder and select "Git Sync."
+Click "Push" to send your changes to the remote repository.
