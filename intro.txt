@@ -38,3 +38,5 @@ Merging Branches:
 
 Right-click on the folder and select "Git Merge."
 Choose the branch you want to merge and click "OK."
+
+This is how i learned the git.
