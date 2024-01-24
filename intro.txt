@@ -18,3 +18,9 @@ Pushing Changes:
 
 To push changes to a remote repository, right-click on the folder and select "Git Sync."
 Click "Push" to send your changes to the remote repository.
+
+
+Pulling Changes:
+
+To pull changes from a remote repository, right-click on the folder and select "Git Sync."
+Click "Pull" to fetch and merge changes from the remote repository.
