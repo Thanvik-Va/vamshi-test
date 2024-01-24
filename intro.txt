@@ -24,3 +24,17 @@ Pulling Changes:
 
 To pull changes from a remote repository, right-click on the folder and select "Git Sync."
 Click "Pull" to fetch and merge changes from the remote repository.
+
+Branching and Merging:
+Creating a Branch:
+
+Right-click on the folder and select "Git Create Branch."
+Enter the branch name and click "OK."
+Switching Branches:
+
+Right-click on the folder and select "Git Switch/Branch."
+Choose the branch you want to switch to.
+Merging Branches:
+
+Right-click on the folder and select "Git Merge."
+Choose the branch you want to merge and click "OK."
